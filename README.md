@@ -1,5 +1,5 @@
 # AngularJsCrud
-Create, Read, Update, Delete BDD with Angularjs Jquery php twitter bootstrap
+Create, Read, Update, Delete BDD with Angularjs Jquery php twitter bootstrap;
 #Variable 
-Bdd = crud
-table = mytable
+Bdd = crud;
+table = mytable;
